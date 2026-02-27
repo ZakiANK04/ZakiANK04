@@ -48,20 +48,7 @@ Python | C++ | SQL | Java | MATLAB | LaTeX
 * 📷 Photography & Videography
 * 🥋 Judo
 * ⚽ Football
-* 🤝 Active in multiple engineering & innovation clubs (VIC, IEEE, IEC)
-
+* 🤝 Active in multiple Scientific,engineering & innovation clubs (VIC, IEEE, IEC)
 ---
-
-## 📫 How to Reach Me?
-
-📧 **Email:** [zzaouanouk@gmail.com](mailto:zzaouanouk@gmail.com)
-📱 **Phone:** +213 672 97 15 75
-💼 **LinkedIn:** [www.linkedin.com/in/ahcene-zakaria-aouanouk](http://www.linkedin.com/in/ahcene-zakaria-aouanouk)
-
----
-
-## ✨ Motto
-
-> “Turning data into decisions. Turning ideas into impact.”
-
+> “Turning existential crises into optimization problems.”
 ---
