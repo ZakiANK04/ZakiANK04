@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ahcene Zakaria AOUANOUK
+# 👋 Hi, I'm Zaki
 
 🎓 **Industrial Engineering Student (Data Science & AI)**
 📍 National Polytechnic School of Algiers (ENP)
