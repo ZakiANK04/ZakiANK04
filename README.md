@@ -1,54 +1,17 @@
-# 👋 Hi, I'm Zaki
+## 👋 I'm Zaki. 
+I study **Industrial Engineering (Data Science & AI)** at ENP Algiers, which is mostly just a fancy way of saying I spend my life staring at error messages.
 
-🎓 **Industrial Engineering Student (Data Science & AI)**
-📍 National Polytechnic School of Algiers (ENP)
-🚀 Passionate about Artificial Intelligence, Optimization & Industrial Innovation
+* **Data Science:** Teaching machines to think so I don’t have to.
+* **Optimization:** Making sure we reach the end as efficiently as possible.
+* **Hobbies:** Judo (getting thrown), Football (running in circles), and pretending my code matters.
+
+`Python | C++ | SQL | Existential Dread`
 
 ---
 
-## 👨‍💻 Who am I?
+### Option 3: Short & Bleak (The "GitHub Pro" look)
+**Engineering student at ENP Algiers.**
+Currently using AI to automate myself out of a future. I turn raw data into actionable insights that will eventually be lost to bit rot. 
 
-I’m a State Engineer student in **Industrial Engineering – Data Science & AI** at ENP Algiers 
-
-I love building intelligent systems that solve **real-world industrial problems**, combining:
-
-* 🧠 Artificial Intelligence
-* 📊 Data Science
-* ⚙️ Optimization & Complex Systems
-* 💡 Strategic Decision-Making
-
-I enjoy transforming raw data into actionable insights and scalable solutions.
-
-### 💻 Programming Languages
-
-```
-Python | C++ | SQL | Java | MATLAB | LaTeX
-```
-
-### 🤖 Data Science & AI
-
-* Neural Networks
-* NLP (Natural Language Processing)
-* Classification & Regression Models
-* Data Cleaning & Filtering
-* Database Management
-
-### 🧰 Software & Tools
-
-* Power BI
-* Docker
-* Git & GitHub
-* Google Colab
-* Excel / Word / PowerPoint
-* Adobe Suite (Illustrator, Premiere Pro, Photoshop, After Effects)
-
-## 🎯 Beyond Tech
-
-* 🎨 Graphic Design & Video Editing
-* 📷 Photography & Videography
-* 🥋 Judo
-* ⚽ Football
-* 🤝 Active in multiple Scientific,engineering & innovation clubs (VIC, IEEE, IEC)
----
-> “Turning existential crises into optimization problems.”
----
+* **Status:** Running `pip install hope`... *Error: Requirement not found.*
+* **Currently:** Moving pixels in illustrator to feel some control over the chaos.
